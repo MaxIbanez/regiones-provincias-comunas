@@ -35,6 +35,15 @@ provincias = [
     {id_prov:30,nombre:"Choapa",id_region:5},
     {id_prov:31,nombre:"Elqui",id_region:5},
     {id_prov:32,nombre:"Limarí",id_region:5},
+    {id_prov:33,nombre:"Isla de Pascua",id_region:6},
+    {id_prov:34,nombre:"Los Andes",id_region:6},
+    {id_prov:35,nombre:"Quillota",id_region:6},
+    {id_prov:36,nombre:"Valparaíso",id_region:6},
+    {id_prov:37,nombre:"Petorca",id_region:6},
+    {id_prov:38,nombre:"San Antonio",id_region:6},
+    {id_prov:39,nombre:"San Felipe de Aconcagua",id_region:6},
+    {id_prov:40,nombre:"Marga Marga",id_region:6},
+
 
 
 
@@ -97,4 +106,50 @@ comunas = [
     {id_comuna:143, nombre:"Punitaqui", id_prov:32},
     {id_comuna:144, nombre:"Río Hurtado", id_prov:32},
     //__________________________________________________
+    {id_comuna:145, nombre:"Isla de Pascua", id_prov:33},
+    //__________________________________________________
+    {id_comuna:146, nombre:"Los Andes", id_prov:34},
+    {id_comuna:147, nombre:"Calle Larga", id_prov:34},
+    {id_comuna:148, nombre:"Rinconada", id_prov:34},
+    {id_comuna:149, nombre:"San Esteban", id_prov:34},
+    //__________________________________________________
+    {id_comuna:150, nombre:"Quillota", id_prov:35},
+    {id_comuna:151, nombre:"La Calera", id_prov:35},
+    {id_comuna:152, nombre:"Hijuelas", id_prov:35},
+    {id_comuna:153, nombre:"La Cruz", id_prov:35},
+    {id_comuna:154, nombre:"Nogales", id_prov:35},
+    //_________________________________________________
+    {id_comuna:155, nombre:"Valparaíso", id_prov:36},
+    {id_comuna:156, nombre:"Casablanca", id_prov:36},
+    {id_comuna:157, nombre:"Concón", id_prov:36},
+    {id_comuna:158, nombre:"Juan Fernandez", id_prov:36},
+    {id_comuna:159, nombre:"Puchuncaví", id_prov:36},
+    {id_comuna:160, nombre:"Quintero", id_prov:36},
+    {id_comuna:161, nombre:"Viña del Mar", id_prov:36},
+    //__________________________________________________
+    {id_comuna:162, nombre:"La Ligua", id_prov:37},
+    {id_comuna:163, nombre:"Cabildo", id_prov:37},
+    {id_comuna:164, nombre:"Papudo", id_prov:37},
+    {id_comuna:165, nombre:"Petorca", id_prov:37},
+    {id_comuna:166, nombre:"Zapallar", id_prov:37},
+    //_________________________________________________
+    {id_comuna:167, nombre:"San Antonio", id_prov:38},
+    {id_comuna:168, nombre:"Algarrobo", id_prov:38},
+    {id_comuna:169, nombre:"Cartagena", id_prov:38},
+    {id_comuna:170, nombre:"El Quisco", id_prov:38},
+    {id_comuna:171, nombre:"El Tabo", id_prov:38},
+    {id_comuna:172, nombre:"Santo Domingo", id_prov:38},
+    //_____________________________________________________
+    {id_comuna:173, nombre:"San Felipe", id_prov:39},
+    {id_comuna:174, nombre:"Catemu", id_prov:39},
+    {id_comuna:175, nombre:"Llaillay", id_prov:39},
+    {id_comuna:176, nombre:"Panquehue", id_prov:39},
+    {id_comuna:177, nombre:"Putaendo", id_prov:39},
+    {id_comuna:178, nombre:"Santa María", id_prov:39},
+    //_________________________________________________
+    {id_comuna:179, nombre:"Quilpué", id_prov:39},
+    {id_comuna:180, nombre:"Limache", id_prov:39},
+    {id_comuna:181, nombre:"Olmué", id_prov:39},
+    {id_comuna:182, nombre:"Villa Alemana", id_prov:39},
+    
 ]
