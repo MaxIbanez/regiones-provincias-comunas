@@ -32,6 +32,9 @@ provincias = [
     {id_prov:27,nombre:"Copiapó",id_region:4},
     {id_prov:28,nombre:"Huasco",id_region:4},
     {id_prov:29,nombre:"Chañaral",id_region:4},
+    {id_prov:30,nombre:"Choapa",id_region:5},
+    {id_prov:31,nombre:"Elqui",id_region:5},
+    {id_prov:32,nombre:"Limarí",id_region:5},
 
 
 
@@ -74,6 +77,24 @@ comunas = [
     {id_comuna:127, nombre:"Huasco", id_prov:28},
     //______________________________________________
     {id_comuna:128, nombre:"Chañaral", id_prov:29},
-    {id_comuna:129, nombre:"Diego de Almagro", id_prov:29}
-
+    {id_comuna:129, nombre:"Diego de Almagro", id_prov:29},
+    //______________________________________________
+    {id_comuna:130, nombre:"Illapel", id_prov:30},
+    {id_comuna:131, nombre:"Canela", id_prov:30},
+    {id_comuna:132, nombre:"Los Vilos", id_prov:30},
+    {id_comuna:133, nombre:"Salamanca", id_prov:30},
+    //__________________________________________________
+    {id_comuna:134, nombre:"La Serena", id_prov:31},
+    {id_comuna:135, nombre:"Coquimbo", id_prov:31},
+    {id_comuna:136, nombre:"Andacollo", id_prov:31},
+    {id_comuna:137, nombre:"La Higuera", id_prov:31},
+    {id_comuna:138, nombre:"Paihuano", id_prov:31},
+    {id_comuna:139, nombre:"Vicuña", id_prov:31},
+    //__________________________________________________
+    {id_comuna:140, nombre:"Ovalle", id_prov:32},
+    {id_comuna:141, nombre:"Combarbalá", id_prov:32},
+    {id_comuna:142, nombre:"Monte Patria", id_prov:32},
+    {id_comuna:143, nombre:"Punitaqui", id_prov:32},
+    {id_comuna:144, nombre:"Río Hurtado", id_prov:32},
+    //__________________________________________________
 ]
