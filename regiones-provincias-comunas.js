@@ -43,6 +43,9 @@ provincias = [
     {id_prov:38,nombre:"San Antonio",id_region:6},
     {id_prov:39,nombre:"San Felipe de Aconcagua",id_region:6},
     {id_prov:40,nombre:"Marga Marga",id_region:6},
+    {id_prov:41,nombre:"Cachapoal",id_region:7},
+    {id_prov:42,nombre:"Cardenal Caro",id_region:7},
+    {id_prov:43,nombre:"Colchagua",id_region:7},
 
 
 
@@ -147,9 +150,51 @@ comunas = [
     {id_comuna:177, nombre:"Putaendo", id_prov:39},
     {id_comuna:178, nombre:"Santa María", id_prov:39},
     //_________________________________________________
-    {id_comuna:179, nombre:"Quilpué", id_prov:39},
-    {id_comuna:180, nombre:"Limache", id_prov:39},
-    {id_comuna:181, nombre:"Olmué", id_prov:39},
-    {id_comuna:182, nombre:"Villa Alemana", id_prov:39},
+    {id_comuna:179, nombre:"Quilpué", id_prov:40},
+    {id_comuna:180, nombre:"Limache", id_prov:40},
+    {id_comuna:181, nombre:"Olmué", id_prov:40},
+    {id_comuna:182, nombre:"Villa Alemana", id_prov:40},
+    //_________________________________________________
+    {id_comuna:183, nombre: 'Rancagua', id_prov:41},
+    {id_comuna:184, nombre: 'Codegua', id_prov:41},
+    {id_comuna:185, nombre: 'Coinco', id_prov:41},
+    {id_comuna:186, nombre: 'Coltauco', id_prov:41},
+    {id_comuna:187, nombre: 'Doñihue', id_prov:41},
+    {id_comuna:188, nombre: 'Graneros', id_prov:41},
+    {id_comuna:189, nombre: 'Las Cabras', id_prov:41},
+    {id_comuna:190, nombre: 'Machalí', id_prov:41},
+    {id_comuna:191, nombre: 'Malloa', id_prov:41},
+    {id_comuna:192, nombre: 'Mostazal', id_prov:41},
+    {id_comuna:193, nombre: 'Olivar', id_prov:41},
+    {id_comuna:194, nombre: 'Peumo', id_prov:41},
+    {id_comuna:195, nombre: 'Pichidegua', id_prov:41},
+    {id_comuna:196, nombre: 'Quinta de Tilcoco', id_prov:41},
+    {id_comuna:197, nombre: 'Rengo', id_prov:41},
+    {id_comuna:198, nombre: 'Requínoa', id_prov:41},
+    {id_comuna:199, nombre: 'San Vicente', id_prov:41},
+    //_________________________________________________
+    {id_comuna:200, nombre: 'Navidad', id_prov:42},
+    {id_comuna:201, nombre: 'Paredones', id_prov:42},
+    {id_comuna:202, nombre: 'Pichilemu', id_prov:42},
+    {id_comuna:203, nombre: 'La Estrella', id_prov:42},
+    {id_comuna:204, nombre: 'Litueche', id_prov:42},
+    {id_comuna:205, nombre: 'Marchihue', id_prov:42},
+
+    //_________________________________________________
+    {id_comuna:206, nombre: 'San Fernando', id_prov:43},
+    {id_comuna:207, nombre: 'Chépica', id_prov:43},
+    {id_comuna:208, nombre: 'Chimbarongo', id_prov:43},
+    {id_comuna:209, nombre: 'Lolol', id_prov:43},
+    {id_comuna:210, nombre: 'Nancagua', id_prov:43},
+    {id_comuna:211, nombre: 'Palmilla', id_prov:43},
+    {id_comuna:212, nombre: 'Peralillo', id_prov:43},
+    {id_comuna:213, nombre: 'Placilla', id_prov:43},
+    {id_comuna:214, nombre: 'Pumanque', id_prov:43},
+    {id_comuna:215, nombre: 'Santa Cruz', id_prov:43},
+    //________________________________________________
+
+
+
+
     
 ]
