@@ -57,6 +57,8 @@ provincias = [
     {id_prov:52,nombre:"Bio-Bío",id_region:10},
     {id_prov:53,nombre:"Malleco",id_region:11},
     {id_prov:54,nombre:"Cautín",id_region:11},
+    {id_prov:55,nombre:"Valdivia",id_region:12},
+    {id_prov:56,nombre:"Ranco",id_region:12},
 
 
 
@@ -320,5 +322,23 @@ comunas = [
     {id_comuna:308, nombre: 'Cholchol', id_prov:54},
     {id_comuna:309, nombre: 'Temuco', id_prov:54},
     {id_comuna:310, nombre: 'Carahue', id_prov:54},
+    //________________________________________________
+    {id_comuna:311, nombre: 'Valdivia', id_prov:55},
+    {id_comuna:312, nombre: 'Corral', id_prov:55},
+    {id_comuna:313, nombre: 'Lanco', id_prov:55},
+    {id_comuna:314, nombre: 'Los Lagos', id_prov:55},
+    {id_comuna:315, nombre: 'Máfil', id_prov:55},
+    {id_comuna:316, nombre: 'Mariquina', id_prov:55},
+    {id_comuna:317, nombre: 'Paillaco', id_prov:55},
+    {id_comuna:318, nombre: 'Panguipulli', id_prov:55},
+    //_______________________________________________
+    {id_comuna:319, nombre: 'La Unión', id_prov:56},
+    {id_comuna:320, nombre: 'Futrono', id_prov:56},
+    {id_comuna:321, nombre: 'Lago Ranco', id_prov:56},
+    {id_comuna:322, nombre: 'Río Bueno', id_prov:56},
+    //_______________________________________________
+
+
+
 
 ]
