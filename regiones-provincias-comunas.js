@@ -55,6 +55,8 @@ provincias = [
     {id_prov:50,nombre:"Concepción",id_region:10},
     {id_prov:51,nombre:"Arauco",id_region:10},
     {id_prov:52,nombre:"Bio-Bío",id_region:10},
+    {id_prov:53,nombre:"Malleco",id_region:11},
+    {id_prov:54,nombre:"Cautín",id_region:11},
 
 
 
@@ -288,11 +290,35 @@ comunas = [
     {id_comuna:280, nombre: 'Tucapel', id_prov:52},
     {id_comuna:281, nombre: 'Yumbel', id_prov:52},
     {id_comuna:282, nombre: 'Alto Biobío', id_prov:52},
-
-
-
-
-
-
+    //________________________________________________
+    {id_comuna:283, nombre: 'Angol', id_prov:53},
+    {id_comuna:284, nombre: 'Collipulli', id_prov:53},
+    {id_comuna:285, nombre: 'Curacautín', id_prov:53},
+    {id_comuna:286, nombre: 'Ercilla', id_prov:53},
+    {id_comuna:287, nombre: 'Lonquimay', id_prov:53},
+    {id_comuna:288, nombre: 'Los Sauces', id_prov:53},
+    {id_comuna:289, nombre: 'Lumaco', id_prov:53},
+    {id_comuna:290, nombre: 'Purén', id_prov:53},
+    {id_comuna:291, nombre: 'Renaico', id_prov:53},
+    {id_comuna:292, nombre: 'Traiguén', id_prov:53},
+    {id_comuna:293, nombre: 'Victoria', id_prov:53},
+    //_______________________________________________
+    {id_comuna:294, nombre: 'Gorbea', id_prov:54},
+    {id_comuna:295, nombre: 'Lautaro', id_prov:54},
+    {id_comuna:296, nombre: 'Loncoche', id_prov:54},
+    {id_comuna:297, nombre: 'Melipeuco', id_prov:54},
+    {id_comuna:298, nombre: 'Nueva Imperial', id_prov:54},
+    {id_comuna:299, nombre: 'Padre Las Casas', id_prov:54},
+    {id_comuna:300, nombre: 'Perquenco', id_prov:54},
+    {id_comuna:301, nombre: 'Pitrufquén', id_prov:54},
+    {id_comuna:302, nombre: 'Pucón', id_prov:54},
+    {id_comuna:303, nombre: 'Saavedra', id_prov:54},
+    {id_comuna:304, nombre: 'Teodoro Schmidt', id_prov:54},
+    {id_comuna:305, nombre: 'Toltén', id_prov:54},
+    {id_comuna:306, nombre: 'Vilcún', id_prov:54},
+    {id_comuna:307, nombre: 'Villarrica', id_prov:54},
+    {id_comuna:308, nombre: 'Cholchol', id_prov:54},
+    {id_comuna:309, nombre: 'Temuco', id_prov:54},
+    {id_comuna:310, nombre: 'Carahue', id_prov:54},
 
 ]
