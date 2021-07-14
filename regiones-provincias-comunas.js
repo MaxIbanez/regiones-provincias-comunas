@@ -59,13 +59,11 @@ provincias = [
     {id_prov:54,nombre:"Cautín",id_region:11},
     {id_prov:55,nombre:"Valdivia",id_region:12},
     {id_prov:56,nombre:"Ranco",id_region:12},
-
-
-
-
-
-
-
+    {id_prov:57,nombre:"Chiloé",id_region:13},
+    {id_prov:58,nombre:"Osorno",id_region:13},
+    {id_prov:59,nombre:"Llanquihue",id_region:13},
+    {id_prov:60,nombre:"Palena",id_region:13},
+    
 ]
 comunas = [
     {id_comuna:101, nombre:"Arica", id_prov:20},
@@ -337,6 +335,41 @@ comunas = [
     {id_comuna:321, nombre: 'Lago Ranco', id_prov:56},
     {id_comuna:322, nombre: 'Río Bueno', id_prov:56},
     //_______________________________________________
+    {id_comuna:323, nombre:'Quinchao', id_prov: 57},
+    {id_comuna:324, nombre:'Castro', id_prov: 57},
+    {id_comuna:325, nombre:'Ancud', id_prov: 57},
+    {id_comuna:326, nombre:'Chonchi', id_prov: 57},
+    {id_comuna:327, nombre:'Curaco de Vélez', id_prov: 57},
+    {id_comuna:328, nombre:'Dalcahue', id_prov: 57},
+    {id_comuna:329, nombre:'Puqueldón', id_prov: 57},
+    {id_comuna:330, nombre:'Queilén', id_prov: 57},
+    {id_comuna:331, nombre:'Quellón', id_prov: 57},
+    {id_comuna:332, nombre:'Quemchi', id_prov: 57},
+    //____________________________________________
+    {id_comuna:333, nombre:'Río Negro', id_prov: 58},
+    {id_comuna:334, nombre:'Osorno', id_prov: 58},
+    {id_comuna:335, nombre:'Puerto Octay', id_prov: 58},
+    {id_comuna:336, nombre:'Purranque', id_prov: 58},
+    {id_comuna:337, nombre:'Puyehue', id_prov: 58},
+    {id_comuna:338, nombre:'San Juan de la Costa', id_prov: 58},
+    {id_comuna:339, nombre:'San Pablo', id_prov: 58},
+    //_____________________________________________
+    {id_comuna:340, nombre:'Puerto Montt', id_prov: 59},
+    {id_comuna:341, nombre:'Calbuco', id_prov: 59},
+    {id_comuna:342, nombre:'Cochamó', id_prov: 59},
+    {id_comuna:343, nombre:'Fresia', id_prov: 59},
+    {id_comuna:344, nombre:'Frutillar', id_prov: 59},
+    {id_comuna:345, nombre:'Los Muermos', id_prov: 59},
+    {id_comuna:346, nombre:'Llanquihue', id_prov: 59},
+    {id_comuna:347, nombre:'Maullín', id_prov: 59},
+    {id_comuna:348, nombre:'Puerto Varas', id_prov: 59},
+    //___________________________________________
+    {id_comuna:349, nombre:'Chaitén', id_prov: 60},
+    {id_comuna:350, nombre:'Futaleufú', id_prov: 60},
+    {id_comuna:351, nombre:'Hualaihué', id_prov: 60},
+    {id_comuna:352, nombre:'Palena', id_prov: 60},
+
+
 
 
 
