@@ -63,6 +63,22 @@ provincias = [
     {id_prov:58,nombre:"Osorno",id_region:13},
     {id_prov:59,nombre:"Llanquihue",id_region:13},
     {id_prov:60,nombre:"Palena",id_region:13},
+    {id_prov:61,nombre:"Aysén",id_region:14},
+    {id_prov:62,nombre:"Coyhaique",id_region:14},
+    {id_prov:63,nombre:"Capitán Prat",id_region:14},
+    {id_prov:64,nombre:"General Carrera",id_region:14},
+    {id_prov:65,nombre:"Tierra del Fuego",id_region:15},
+    {id_prov:66,nombre:"Magallanes",id_region:15},
+    {id_prov:67,nombre:"Última Esperanza",id_region:15},
+    {id_prov:68,nombre:"Antártica Chilena",id_region:15},
+    {id_prov:69,nombre:"Talagante",id_region:16},
+    {id_prov:70,nombre:"Santiago",id_region:16},
+    {id_prov:71,nombre:"Chacabuco",id_region:16},
+    {id_prov:72,nombre:"Cordillera",id_region:16},
+    {id_prov:73,nombre:"Maipo",id_region:16},
+    {id_prov:74,nombre:"Melipilla",id_region:16},
+    
+
     
 ]
 comunas = [
@@ -368,10 +384,91 @@ comunas = [
     {id_comuna:350, nombre:'Futaleufú', id_prov: 60},
     {id_comuna:351, nombre:'Hualaihué', id_prov: 60},
     {id_comuna:352, nombre:'Palena', id_prov: 60},
-
-
-
-
-
-
+    //__________________________________________
+    {id_comuna:353, nombre:'Aysén', id_prov: 61},
+    {id_comuna:354, nombre:'Cisnes', id_prov: 61},
+    {id_comuna:355, nombre:'Guaitecas', id_prov: 61},
+    //____________________________________________
+    {id_comuna:356, nombre:'Lago Verde', id_prov: 62},
+    {id_comuna:357, nombre:'Coyhaique', id_prov: 62},
+    //____________________________________________
+    {id_comuna:358, nombre:'Cochrane', id_prov: 63},
+    {id_comuna:359, nombre:`O'Higgins`, id_prov: 63},
+    {id_comuna:360, nombre:`Tortel`, id_prov: 63},
+    //_______________________________________________
+    {id_comuna:361, nombre:'Chile Chico', id_prov: 64},
+    {id_comuna:362, nombre:'Río Ibáñez', id_prov: 64},
+    //_______________________________________________
+    {id_comuna:363, nombre:'Porvenir', id_prov: 65},
+    {id_comuna:364, nombre:'Primavera', id_prov: 65},
+    {id_comuna:365, nombre:'Timaukel', id_prov: 65},
+    //______________________________________________
+    {id_comuna:366, nombre:'Punta Arenas', id_prov: 66},
+    {id_comuna:367, nombre:'Laguna Blanca', id_prov: 66},
+    {id_comuna:368, nombre:'Río Verde', id_prov: 66},
+    {id_comuna:369, nombre:'San Gregorio', id_prov: 66},
+    //_______________________________________________
+    {id_comuna:368, nombre:'Natales', id_prov: 67},
+    {id_comuna:369, nombre:'Torres del Paine', id_prov: 67},
+    //_________________________________________________
+    {id_comuna:370, nombre:'Cabo de Hornos', id_prov: 68},
+    {id_comuna:371, nombre:'Antártica', id_prov: 68},
+    //_________________________________________________
+    {id_comuna:372, nombre:'Talagante', id_prov: 69},
+    {id_comuna:373, nombre:'El Monte', id_prov: 69},
+    {id_comuna:374, nombre:'Isla de Maipo', id_prov: 69},
+    {id_comuna:375, nombre:'Padre Hurtado', id_prov: 69},
+    {id_comuna:376, nombre:'Peñaflor', id_prov: 69},
+    //________________________________________________
+    {id_comuna:376, nombre:'La Pintana', id_prov: 70},
+    {id_comuna:377, nombre:'La Reina', id_prov: 70},
+    {id_comuna:378, nombre:'Las Condes', id_prov: 70},
+    {id_comuna:379, nombre:'Lo Barnechea', id_prov: 70},
+    {id_comuna:380, nombre:'Lo Espejo', id_prov: 70},
+    {id_comuna:381, nombre:'Lo Prado', id_prov: 70},
+    {id_comuna:382, nombre:'Macul', id_prov: 70},
+    {id_comuna:383, nombre:'Maipú', id_prov: 70},
+    {id_comuna:384, nombre:'Ñuñoa', id_prov: 70},
+    {id_comuna:385, nombre:'Pedro Aguirre Cerda', id_prov: 70},
+    {id_comuna:386, nombre:'Peñalolén', id_prov: 70},
+    {id_comuna:387, nombre:'Providencia', id_prov: 70},
+    {id_comuna:388, nombre:'Pudahuel', id_prov: 70},
+    {id_comuna:389, nombre:'Quilicura', id_prov: 70},
+    {id_comuna:390, nombre:'Quinta Normal', id_prov: 70},
+    {id_comuna:391, nombre:'Recoleta', id_prov: 70},
+    {id_comuna:392, nombre:'Renca', id_prov: 70},
+    {id_comuna:393, nombre:'San Joaquín', id_prov: 70},
+    {id_comuna:394, nombre:'San Miguel', id_prov: 70},
+    {id_comuna:395, nombre:'San Ramón', id_prov: 70},
+    {id_comuna:396, nombre:'Vitacura', id_prov: 70},
+    {id_comuna:397, nombre:'Santiago', id_prov: 70},
+    {id_comuna:398, nombre:'Cerrillos', id_prov: 70},
+    {id_comuna:399, nombre:'Cerro Navia', id_prov: 70},
+    {id_comuna:400, nombre:'Conchalí', id_prov: 70},
+    {id_comuna:401, nombre:'El Bosque', id_prov: 70},
+    {id_comuna:402, nombre:'Estación Central', id_prov: 70},
+    {id_comuna:403, nombre:'Huechuraba', id_prov: 70},
+    {id_comuna:404, nombre:'Independencia', id_prov: 70},
+    {id_comuna:405, nombre:'La Cisterna', id_prov: 70},
+    {id_comuna:406, nombre:'La Florida', id_prov: 70},
+    {id_comuna:407, nombre:'La Granja', id_prov: 70},
+    //______________________________________________
+    {id_comuna:408, nombre:'Colina', id_prov: 71},
+    {id_comuna:409, nombre:'Lampa', id_prov: 71},
+    {id_comuna:410, nombre:'Tiltil', id_prov: 71},
+    //______________________________________________
+    {id_comuna:411, nombre:'Puente Alto', id_prov: 72},
+    {id_comuna:412, nombre:'Pirque', id_prov: 72},
+    {id_comuna:413, nombre:'San José de Maipo', id_prov: 72},
+    //_______________________________________________
+    {id_comuna:414, nombre:'San Bernardo', id_prov: 73},
+    {id_comuna:415, nombre:'Buin', id_prov: 73},
+    {id_comuna:416, nombre:'Calera de Tango', id_prov: 73},
+    {id_comuna:417, nombre:'Paine', id_prov: 73},
+    //______________________________________________
+    {id_comuna:418, nombre:'Melipilla', id_prov: 74},
+    {id_comuna:419, nombre:'Alhué', id_prov: 74},
+    {id_comuna:420, nombre:'Curacaví', id_prov: 74},
+    {id_comuna:421, nombre:'María Pinto', id_prov: 74},
+    {id_comuna:422, nombre:'San Pedro', id_prov: 74}
 ]
