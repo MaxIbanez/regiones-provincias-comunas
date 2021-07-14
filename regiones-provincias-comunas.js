@@ -46,6 +46,11 @@ provincias = [
     {id_prov:41,nombre:"Cachapoal",id_region:7},
     {id_prov:42,nombre:"Cardenal Caro",id_region:7},
     {id_prov:43,nombre:"Colchagua",id_region:7},
+    {id_prov:44,nombre:"Linares",id_region:8},
+    {id_prov:45,nombre:"Curicó",id_region:8},
+    {id_prov:46,nombre:"Cauquenes",id_region:8},
+    {id_prov:47,nombre:"Talca",id_region:8},
+
 
 
 
@@ -192,9 +197,39 @@ comunas = [
     {id_comuna:214, nombre: 'Pumanque', id_prov:43},
     {id_comuna:215, nombre: 'Santa Cruz', id_prov:43},
     //________________________________________________
+    {id_comuna:216, nombre: 'Parral', id_prov:44},
+    {id_comuna:217, nombre: 'Linares', id_prov:44},
+    {id_comuna:218, nombre: 'Colbún', id_prov:44},
+    {id_comuna:219, nombre: 'Longaví', id_prov:44},
+    {id_comuna:220, nombre: 'Retiro', id_prov:44},
+    {id_comuna:221, nombre: 'San Javier', id_prov:44},
+    {id_comuna:222, nombre: 'Villa Alegre', id_prov:44},
+    {id_comuna:223, nombre: 'Yerbas Buenas', id_prov:44},
 
+    //_________________________________________________
+    {id_comuna:224, nombre: 'Curicó', id_prov:45},
+    {id_comuna:225, nombre: 'Hualañé', id_prov:45},
+    {id_comuna:218, nombre: 'Licantén', id_prov:45},
+    {id_comuna:219, nombre: 'Molina', id_prov:45},
+    {id_comuna:220, nombre: 'Rauco', id_prov:45},
+    {id_comuna:221, nombre: 'Romeral', id_prov:45},
+    {id_comuna:222, nombre: 'Sagrada Familia', id_prov:45},
+    {id_comuna:223, nombre: 'Teno', id_prov:45},
+    {id_comuna:224, nombre: 'Vichuquén', id_prov:45},
+    //___________________________________________________
+    {id_comuna:225, nombre: 'Cauquenes', id_prov:46},
+    {id_comuna:226, nombre: 'Chanco', id_prov:46},
+    {id_comuna:227, nombre: 'Pelluhue', id_prov:46},
+    //__________________________________________________
+    {id_comuna:228, nombre: 'Talca', id_prov:47},
+    {id_comuna:229, nombre: 'Constitución', id_prov:47},
+    {id_comuna:230, nombre: 'Curepto', id_prov:47},
+    {id_comuna:231, nombre: 'Empedrado', id_prov:47},
+    {id_comuna:232, nombre: 'Maule', id_prov:47},
+    {id_comuna:233, nombre: 'Pelarco', id_prov:47},
+    {id_comuna:234, nombre: 'Pencahue', id_prov:47},
+    {id_comuna:235, nombre: 'Río Claro', id_prov:47},
+    {id_comuna:236, nombre: 'San Clemente', id_prov:47},
+    {id_comuna:237, nombre: 'San Rafael', id_prov:47},
 
-
-
-    
 ]
