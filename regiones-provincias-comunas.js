@@ -52,6 +52,9 @@ provincias = [
     {id_prov:47,nombre:"Talca",id_region:8},
     {id_prov:48,nombre:"Itata",id_region:9},
     {id_prov:49,nombre:"Punilla",id_region:9},
+    {id_prov:50,nombre:"Concepción",id_region:10},
+    {id_prov:51,nombre:"Arauco",id_region:10},
+    {id_prov:52,nombre:"Bio-Bío",id_region:10},
 
 
 
@@ -249,6 +252,46 @@ comunas = [
     {id_comuna:247, nombre: 'Ñiquén', id_prov:49},
     {id_comuna:248, nombre: 'San Fabián', id_prov:49},
     {id_comuna:249, nombre: 'San Nicolás', id_prov:49},
+    //_________________________________________________
+    {id_comuna:250, nombre: 'Concepción', id_prov:50},
+    {id_comuna:251, nombre: 'Coronel', id_prov:50},
+    {id_comuna:252, nombre: 'Chiguayante', id_prov:50},
+    {id_comuna:253, nombre: 'Florida', id_prov:50},
+    {id_comuna:254, nombre: 'Hualqui', id_prov:50},
+    {id_comuna:255, nombre: 'Lota', id_prov:50},
+    {id_comuna:256, nombre: 'Penco', id_prov:50},
+    {id_comuna:257, nombre: 'San Pedro de la Paz', id_prov:50},
+    {id_comuna:258, nombre: 'Santa Juana', id_prov:50},
+    {id_comuna:259, nombre: 'Talcahuano', id_prov:50},
+    {id_comuna:260, nombre: 'Tomé', id_prov:50},
+    {id_comuna:261, nombre: 'Hualpén', id_prov:50},
+    //_______________________________________________
+    {id_comuna:262, nombre: 'Lebu', id_prov:51},
+    {id_comuna:263, nombre: 'Arauco', id_prov:51},
+    {id_comuna:264, nombre: 'Cañete', id_prov:51},
+    {id_comuna:265, nombre: 'Contulmo', id_prov:51},
+    {id_comuna:266, nombre: 'Curanilahue', id_prov:51},
+    {id_comuna:267, nombre: 'Los Alamos', id_prov:51},
+    {id_comuna:268, nombre: 'Tirúa', id_prov:51},
+    //____________________________________________________
+    {id_comuna:269, nombre: 'Los Angeles', id_prov:52},
+    {id_comuna:270, nombre: 'Antuco', id_prov:52},
+    {id_comuna:271, nombre: 'Cabrero', id_prov:52},
+    {id_comuna:272, nombre: 'Laja', id_prov:52},
+    {id_comuna:273, nombre: 'Mulchén', id_prov:52},
+    {id_comuna:274, nombre: 'Nacimiento', id_prov:52},
+    {id_comuna:275, nombre: 'Negrete', id_prov:52},
+    {id_comuna:276, nombre: 'Quilaco', id_prov:52},
+    {id_comuna:277, nombre: 'Quilleco', id_prov:52},
+    {id_comuna:278, nombre: 'San Rosendo', id_prov:52},
+    {id_comuna:279, nombre: 'Santa Bárbara', id_prov:52},
+    {id_comuna:280, nombre: 'Tucapel', id_prov:52},
+    {id_comuna:281, nombre: 'Yumbel', id_prov:52},
+    {id_comuna:282, nombre: 'Alto Biobío', id_prov:52},
+
+
+
+
 
 
 
