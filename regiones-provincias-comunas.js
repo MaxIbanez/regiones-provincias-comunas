@@ -50,6 +50,10 @@ provincias = [
     {id_prov:45,nombre:"Curicó",id_region:8},
     {id_prov:46,nombre:"Cauquenes",id_region:8},
     {id_prov:47,nombre:"Talca",id_region:8},
+    {id_prov:48,nombre:"Itata",id_region:9},
+    {id_prov:49,nombre:"Punilla",id_region:9},
+
+
 
 
 
@@ -231,5 +235,21 @@ comunas = [
     {id_comuna:235, nombre: 'Río Claro', id_prov:47},
     {id_comuna:236, nombre: 'San Clemente', id_prov:47},
     {id_comuna:237, nombre: 'San Rafael', id_prov:47},
+    //_________________________________________________
+    {id_comuna:238, nombre: 'Quirihue', id_prov:48},
+    {id_comuna:239, nombre: 'Cobquecura', id_prov:48},
+    {id_comuna:240, nombre: 'Coelemu', id_prov:48},
+    {id_comuna:241, nombre: 'Ninhue', id_prov:48},
+    {id_comuna:242, nombre: 'Portezuelo', id_prov:48},
+    {id_comuna:243, nombre: 'Ránquil', id_prov:48},
+    {id_comuna:244, nombre: 'Treguaco', id_prov:48},
+    //_________________________________________________
+    {id_comuna:245, nombre: 'San Carlos', id_prov:49},
+    {id_comuna:246, nombre: 'Coihueco', id_prov:49},
+    {id_comuna:247, nombre: 'Ñiquén', id_prov:49},
+    {id_comuna:248, nombre: 'San Fabián', id_prov:49},
+    {id_comuna:249, nombre: 'San Nicolás', id_prov:49},
+
+
 
 ]
