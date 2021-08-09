@@ -469,3 +469,13 @@ comunas = [
     {id_comuna:421, nombre:'María Pinto', id_prov:74, id_region:16},
     {id_comuna:422, nombre:'San Pedro', id_prov:74, id_region:16}
 ]
+
+const comuna = comunas.filter(element=> element.id_comuna == 161)[0]
+const provincia = provincias.filter(element=>element.id_prov == comuna.id_prov)[0]
+const region = regiones.filter(element=>element.id_region == provincia.id_region)[0]
+console.clear()
+console.log('Localidad buscada:\n');
+console.log('Región:',region.nombre);
+console.log('Provincia:', provincia.nombre);
+console.log('Comuna:', comuna.nombre);
+console.log('\n\n');
